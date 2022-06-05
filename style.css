@@ -1,0 +1,33 @@
+.accordion > div > span{
+	background-color:#eee ;
+	display: block;
+	width: 95%;
+	cursor: pointer;
+	padding: 20px ;
+ margin-left: 10px;
+ 
+    margin-bottom: 10px;
+}
+.accordion > div >span:after{
+	content: "\002b";
+	float: right;
+}
+
+.accordion > div.show >span:after{
+	content: "\2212";
+	float: right;
+}
+.accordion > div >span:hover,
+.accordion > div.show>div{
+	background-color: #ccc;
+}
+.accordion >div >div{
+	padding: 15px;
+	width: 95%;
+	margin-right: 10px;
+    margin-left: 10px;
+	display: none;
+}
+.accordion > div.show > div{
+	display: block;
+}
