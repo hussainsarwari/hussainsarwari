@@ -4,13 +4,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hussainsarwari&label=Profile%20views&color=0e75b6&style=flat" alt="hussainsarwari" /> </p>
 
 
-- 🔭 I’m currently working on [front end projets](https://github.com/hussainsarwari)
+- 🔭 I’m currently working on [front end projets](https://github.com/hussainsarwari) but my goal is to become a full stack developper
 - 👯 I’m looking to collaborate on **vue,gsap,animjs **
 - 🤝 I’m looking for help with **vue,gsap,animjs **
-- 🌱 I’m currently learning **vue,react,typescript**
+- 🌱 I’m currently learning *fronend*
 - 💬 Ask me about **vue,bootstrap,css,js**
 - 📫 How to reach me **sarwarihussain7@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/hussainsarwari**
+- 👨‍💻 All of my projects are available at *https://github.com/hussainsarwari*
 
 
 <h3 align="center">Connect with me:</h3>
